@@ -57,4 +57,4 @@ This is a full-stack chat application with a React frontend, Node.js/Express bac
 
 ## License
 
-MIT
+Vikasini M
